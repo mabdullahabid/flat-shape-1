@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.2",
+    "cookiecutter_context": {
+      "project_name": "Flat Shape",
+      "project_slug": "flat_shape_1",
+      "project_dash_slug": "flat-shape-1",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "abid.abdullah@crowdbotics.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
